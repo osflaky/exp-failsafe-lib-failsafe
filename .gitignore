@@ -1,0 +1,11 @@
+target/
+*~
+.project
+.classpath
+.settings/
+test-output/
+docs/
+.idea
+*.iml
+_site
+.java-version
